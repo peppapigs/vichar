@@ -1,2 +1,7 @@
 class a2:
-    pass
+    
+    def fun():
+        pass
+
+
+
